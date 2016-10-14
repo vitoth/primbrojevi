@@ -30,7 +30,7 @@ namespace Vsite.Pood
         }
 
         // Primjer iz knjige  Robert C. Martin: "Agile Software Development"!!!
-        public static int[] GenerirajPrimBrojeve(int max)
+        public static int[] GenerirajPrimBrojeve(int max) 
         {
             if (max >= 2)
             {
